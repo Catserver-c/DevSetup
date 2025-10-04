@@ -1,17 +1,25 @@
-# DevSetup
-# LangInstaller 🚀  All-in-one installer for dev environment: programming languages, IDEs and code editors. Python, VS Code, Android Studio, Node.js, Postman and more.
-Русский/Russian
+# DevSetup | LangInstaller 🚀
 
-Эта программа скачивает установщики языков програмирования, IDE, редакторов кода с официальных сайтов по ссылке.
+All-in-one installer for dev environment: programming languages, IDEs and code editors. Python, VS Code, Android Studio, Node.js, Postman and more.
 
-В дальнейшем я постараюсь сделать UI и увеличивать список скачиваемых программ.
+---
 
-Английский/English
+## Русский / Russian
 
+Эта программа скачивает установщики языков программирования, IDE и редакторов кода с официальных сайтов по прямым ссылкам.
 
+В дальнейшем я планирую:
+- Добавить пользовательский интерфейс (UI)
+- Расширить список доступного программного обеспечения
+- Добавить прогресс-бар для отслеживания загрузки
 
-All-in-one installer for development environment: programming languages, IDEs and code editors. Python, VS Code, Android Studio, Node.js, Postman and more.
+---
+
+## English / English
 
 This program downloads installers for programming languages, IDEs, and code editors from official websites via direct links.
 
-In the future, I plan to add a user interface and expand the list of available software.
+Future plans include:
+- Adding a user-friendly interface (UI)
+- Expanding the list of available software
+- Implementing progress tracking for downloads
