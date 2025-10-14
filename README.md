@@ -2,9 +2,9 @@ I have first realese!/У меня есть первый релиз (https://gith
 # DevSetup 
 
 All-in-one installer for dev environment: programming languages, IDEs and code editors. Python, VS Code, Android Studio, Node.js, Postman and more.
-I regullary update links to ensure you get the latest versions./Я регулярно обновляю ссылки чтобы вы получали новые версии
----
 
+---
+I regullary update links to ensure you get the latest versions./Я регулярно обновляю ссылки чтобы вы получали новые версии
 ## Русский / Russian
 
 Эта программа скачивает установщики языков программирования, IDE и редакторов кода с официальных сайтов по прямым ссылкам.
